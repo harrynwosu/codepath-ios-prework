@@ -40,6 +40,8 @@ GIF created with Kap
    - Seamlessly connecting a user's Threads account to their Instagram account
    - The ability to share even music on the new Instagram notes feature.
 
+An app idea of mine would be a travel planning app. Planning work/vacation trips usually requires doing research about individual parts of your trip on different websites/apps. My idea is to implement an app that has every part of your travel incorporated into one single app, ranging from flights booking, car rentals, hotel bookings, restaurant reservations, and other fun things to do around your destination area like amusement parks or museum visiting. This could greatly improve trip planning since all aspects of the trip will be all in one loctaion.
+
 ## Notes
 
 Had to spend some time searching for some menus we needed that were not well described in the walkthrough document.
@@ -59,6 +61,4 @@ Had to spend some time searching for some menus we needed that were not well des
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-### App Brainstorming
 
