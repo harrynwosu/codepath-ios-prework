@@ -27,6 +27,8 @@ GIF created with Kap
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
+![Harold iOS Prework](https://github.com/harrynwosu/codepath-ios-prework/assets/92546242/00d089f3-80d4-4363-8cb0-53ab959dfc79)
+
 
 ## App Brainstorming (Step 4)
 1. Snapchat
